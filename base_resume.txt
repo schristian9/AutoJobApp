@@ -1,0 +1,74 @@
+Sarlinson Christian
+Product Support Engineer | Customer Onboarding Specialist | Customer Support Specialist | Customer Success Manager
+
+Phone: 07887170442
+Visa: Dependent (Right to work)
+Github: https://github.com/schristian9
+Email: sarlinson92@yahoo.com
+LinkedIn: https://www.linkedin.com/in/sarlinson/
+Address: London, England
+Medium: https://medium.com/@sarlinson
+
+PROFESSIONAL SUMMARIES (For AI to select from based on role):
+[Product Support Focus]
+Senior Product Support Engineer with 7 years of experience providing advanced technical assistance and system troubleshooting across complex environments. Proven ability to conduct root cause analysis, resolve critical system issues, and manage high-priority technical escalations. I specialize in bridging the gap between technical infrastructure and end-user requirements while managing competing priorities for diverse stakeholders.
+
+[Customer Onboarding Focus]
+Senior Customer Onboarding Specialist with 7 years of experience driving the successful adoption. Proven ability to lead technical configurations and project delivery on high-stakes, multi-site initiatives while managing competing priorities. I specialize in bridging the gap between product capabilities and client objectives to ensure seamless onboarding and immediate platform value.
+
+[Customer Support Focus]
+Senior Customer Support Specialist with 7 years of experience transforming complex technical escalations into smooth, end-to-end resolutions. Expert at defusing high-pressure situations, pinpointing root causes, and collaborating with engineering to deliver stable product fixes. A proactive problem-solver who builds genuine user trust by translating intricate technical bottlenecks into clear, actionable outcomes for everyone involved.
+
+[Customer Success Focus]
+Senior Customer Success Manager with 7 years of experience managing complex technical escalations and driving end-to-end product adoption. Expert at neutralizing high-pressure situations, identifying root causes, and coordinating with engineering teams to deliver stable fixes. Proven ability to build long-term trust and translate technical bottlenecks into clear, actionable value for diverse stakeholders.
+
+SKILLS
+Roles & Operations: Tier 1–3 Technical Support, Customer Onboarding, End-to-End Client Implementation, Workflow Analysis, Root-Cause Analysis, Problem Solving, Documentation, Knowledge Base Authoring, Log Analysis, Incident Management, Ticket Queue Management, SLA Compliance, Stakeholder Communication, Cross-Functional Collaboration, CRM Administration, Customer Retention, Contract Renewals, Negotiations, Upselling, Workflow Optimization, Post-Go-Live Support, UAT Testing.
+Technology & Tools: SQL, Linux, Cloud Technologies(AWS), Python Automation, Scripting, Networking, Intercom, Hubspot, SaaS, Postman - API, PowerBI, Jira, System Integration, Ticketing System, Virtualization, Active Directory.
+
+WORK EXPERIENCE
+Founder | Jan 2026 - May 2026
+DecodeDx
+- Built DecodeDx from concept to working platform, designing an AI-driven workflow that translates complex lab reports into personalised health recommendations, reducing frontline staff interpretation time by an estimated 30%.
+- Redesigned the end-to-end product experience based on direct user feedback, improving clinical relevance and usability, cutting user drop-off at the results screen by 35%.
+
+Senior Customer Success Manager | July 2025 - Dec 2025
+SeekThem
+- Resolved 300+ client queries monthly via email and calls, maintaining a CSAT score of 96% across a diverse stakeholder.
+- Managed client communication across 2 high-stakes system failure events outside standard hours, coordinating resolution and maintaining zero escalations to senior leadership.
+- Monitored product adoption metrics, proactively flagging at-risk clients 30 days before renewal, improving retention rate from 81% to 93%.
+- Partnered with the sales team to surface upsell signals from support conversations across 15 accounts, directly contributing to 5 expansion deals totalling £15k ARR within one quarter.
+- Analysed system usage data to identify configuration and integration issues, improving early user experience by 35%, reducing churn-related support dependencies by 20%.
+
+Senior Product Deployment Analyst | Sept 2019 - June 2025
+Meditab Software
+- Contributed to end-to-end EPR rollout of Meditab’s Intelligent Medical Software across clinical sites, managing requirements gathering, workflow configuration, and go-live support with clinical and operational stakeholders.
+- Analysed 200+ failed HL7 messages across 3 EPR modules, identified a misconfigured ADT trigger as the root cause, and resolved it, cutting repeat ticket volume by 14% within 6 weeks.
+- Diagnosed 11 EHR integration failures across a 6-month period by coordinating directly with clinicians and engineering, producing structured incident reports that reduced average resolution time from 72 hours to 18 hours.
+- Identified workflow inconsistencies across clinical and non-clinical teams; standardised SOPs and process documentation to resolve onboarding gaps, reducing related support tickets by 15% within 2 months of deployment.
+- Configured and delivered EPR and clinical IT system training for 500+ clinical staff across nursing, physician, and administrative functions; iterated session design based on observed error patterns, cutting support ticket volume by 41%.
+- Supported installation and upgrade cycles for clinical software and devices across customer sites; validated system configuration and pre-delivery checks to ensure operational readiness, improving on-time implementation by 15%.
+- Coordinated with third-party laboratory vendors including Labcorp and Quest to ensure seamless system integration during EPR implementation, serving as primary liaison between vendor teams and internal project stakeholders.
+- Produced 15+ SOPs, training materials, and configuration guides across 7 teams; ensured all documentation throughout the project lifecycle, reducing onboarding friction and support escalations post-deployment.
+- Collaborated cross-functionally with clinical, and technical teams on 20+ projects, translating clinical workflow requirements into system configuration workflow; reducing delivery friction by 20%.
+
+Interface Analyst | Jan 2019 - Aug 2019
+Meditab Software
+- Configured 12+ laboratory interface connections to the EPR system, resolving data mapping conflicts between systems, reducing failed message transmission by 38%.
+- Identified recurring mismatch lab codes across 6 departments, standardized the code mapping tables within the interface engine, cutting result routing errors by 44% within 8 weeks.
+- Coordinated with lab leads and EPR engineers during 3 phased go-lives, validated end-to-end data flow from order entry to result delivery, ensuring zero critical interface failures.
+
+Virtual Administrative Medical Assistant | Jan 2018 - Dec 2018
+DrCatalyst
+- Addressed delays in patient workflows by improving chart preparation and lab coordination processes, reducing administrative bottlenecks by 20%.
+
+PROJECTS
+One-touch Automation Tool
+- Gathered requirements from 15+ end-users, translated operational needs into structured user stories for the engineering team, and validated the tool during UAT, driving a 65% reduction in manual processing time post-deployment.
+
+Streamlined Training Process
+- Audited the existing training programme, identified 6 process gaps, and redesigned the end-to-end framework into a structured 4-stage plan, reducing onboarding time by 30% and improving competency scores by 45%.
+
+EDUCATION
+Bachelors Business Administration - DY Patil University | Dec 2026
+General Nursing Midwifery - GCS Medical College | Sept 2017
