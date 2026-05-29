@@ -62,9 +62,9 @@ def tailor_resume(job_title, job_description, base_resume):
     print(f"Tailoring resume for {job_title} using Google Gemini...")
     genai.configure(api_key=GEMINI_API_KEY)
     
-    # Use gemini-pro model
+    # Use gemini-1.5-flash model
     try:
-        model = genai.GenerativeModel('gemini-pro')
+        model = genai.GenerativeModel('gemini-1.5-flash')
         prompt = f"""
         You are an expert resume writer and career coach.
         I am applying for the role of '{job_title}'.
@@ -90,13 +90,13 @@ def generate_pdf(text, filename):
     try:
         pdf = FPDF()
         pdf.add_page()
-        pdf.set_font("Arial", size=11)
+        pdf.set_font("Helvetica", size=11)
+        pdf.set_auto_page_break(auto=True, margin=15)
         
         # Handle unicode characters gracefully
         text = text.encode('latin-1', 'replace').decode('latin-1')
         
-        for line in text.split('\n'):
-            pdf.multi_cell(0, 5, txt=line)
+        pdf.multi_cell(0, 5, text=text)
             
         pdf.output(filename)
         return filename
