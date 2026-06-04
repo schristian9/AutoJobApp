@@ -1,9 +1,9 @@
 name: Scrape Jobs Daily
 
 on:
-  schedule:
-    # Runs every 4 hours (At minute 0 past every 4th hour)
-    - cron: '0 */4 * * *'
+  # schedule:
+  #   # Runs every 4 hours (At minute 0 past every 4th hour)
+  #   - cron: '0 */4 * * *'
   workflow_dispatch: # Allows manual trigger from the GitHub UI
 
 jobs:
